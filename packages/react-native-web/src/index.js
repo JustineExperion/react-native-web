@@ -4,7 +4,7 @@ export { default as processColor } from './exports/processColor';
 export { default as render } from './exports/render';
 export { default as unmountComponentAtNode } from './exports/unmountComponentAtNode';
 export { default as NativeModules } from './exports/NativeModules';
-
+export { default as ViewPropTypes } from './exports/ViewPropTypes';
 // APIs
 export { default as AccessibilityInfo } from './exports/AccessibilityInfo';
 export { default as Alert } from './exports/Alert';
